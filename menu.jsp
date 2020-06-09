@@ -14,6 +14,9 @@
     <body>
         <h1>menu principal</h1>
         1. portal alumno <br>
-        2. aula virual
+        2. aula virual <br>
+        3. correo <br>
+        4 biblbioteca <br>
+        5. OBU <br>
     </body>
 </html>
